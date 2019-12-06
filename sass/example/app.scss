@@ -1,0 +1,18 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Import styles with default or dark layout.
+@import "~@coreui/coreui-pro/scss/coreui";
+//@import "~@coreui/coreui-pro/scss/themes/dark/coreui-dark";
+@import "~bootstrap-vue/dist/bootstrap-vue.css";
+
+@import '~@coreui/icons/css/coreui-icons.min.css';
+@import '~font-awesome/scss/font-awesome.scss';
+@import '~simple-line-icons/scss/simple-line-icons.scss';
+@import '~flag-icon-css/css/flag-icon.min.css';
+
+// If you want to add something do it here
+@import "custom";
+
+// ie fixes
+@import "ie-fix";

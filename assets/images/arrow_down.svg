@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 22" width="20" height="11">
+	<defs>
+		<image width="40" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAWBAMAAABAoMODAAAAAXNSR0IB2cksfwAAACpQTFRFVlZWVlZWVlZWAAAAVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWpcbd7gAAAA50Uk5TA6RpAKX/eGZoiP1bhompW1pDAAAAlklEQVR4nF3KsQ3CQAyFYbMBO6AsEEsREaJkAYQjhRYxAaNEGYGKki4ti2H7cu8ufs2Tfn20O3BYu6fLNcbmRk8JtJWBOgm0kQdxoAqZOFCFGrfUoMUNNWixpg49VtShR6Wv1I4OU+zlk+IiP0Se71+703vkEle6yFTFRDPM0WmGORoFRFQKiKgUsMReAEvkGbCKZ0D+AxlEazFHrxAKAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="KENTEKEN MODULE">
+		<g id="Scroll Down Menu">
+			<use id="Arrow" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

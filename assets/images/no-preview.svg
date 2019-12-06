@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="0" y="0" width="512" height="512" style="fill:rgb(164,161,161);"/>
+    <g transform="matrix(0.364223,0,0,0.364223,162.759,218.33)">
+        <path d="M512,144L512,432C512,458.5 490.5,480 464,480L48,480C21.5,480 0,458.5 0,432L0,144C0,117.5 21.5,96 48,96L136,96L148.3,63.1C155.3,44.4 173.2,32 193.2,32L318.7,32C338.7,32 356.6,44.4 363.6,63.1L376,96L464,96C490.5,96 512,117.5 512,144ZM376,288C376,221.8 322.2,168 256,168C189.8,168 136,221.8 136,288C136,354.2 189.8,408 256,408C322.2,408 376,354.2 376,288ZM344,288C344,336.5 304.5,376 256,376C207.5,376 168,336.5 168,288C168,239.5 207.5,200 256,200C304.5,200 344,239.5 344,288Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-73.0952,57.4081)">
+        <text x="147.361px" y="42.509px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:42px;fill:white;">Geen afbeeldin<tspan x="481.429px " y="42.509px ">g</tspan></text>
+        <text x="185.917px" y="84.509px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:42px;fill:white;">geselec<tspan x="354.925px 372.481px " y="84.509px 84.509px ">te</tspan>er<tspan x="443.209px " y="84.509px ">d</tspan></text>
+    </g>
+    <g transform="matrix(0.628378,0,0,0.628378,85.4874,104.293)">
+        <circle cx="271.353" cy="348.454" r="222.289" style="fill:none;stroke:white;stroke-width:47.74px;"/>
+    </g>
+    <g transform="matrix(0.501266,-0.501266,1.54374,1.54374,-110.581,145.73)">
+        <rect x="-35.713" y="168.887" width="448.584" height="14.686" style="fill:white;stroke:rgb(164,161,161);stroke-width:4.31px;"/>
+    </g>
+</svg>

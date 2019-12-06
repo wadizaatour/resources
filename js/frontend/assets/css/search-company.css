@@ -1,0 +1,22 @@
+.hidden_header {
+    display: none;
+}
+thead {
+    border: none !important;
+}
+tbody {
+    border: none !important;
+    border-color: white;
+}
+table {
+    border: none !important;
+}
+th {
+    border: none !important;
+}
+tr {
+    border: none !important;
+}
+td {
+    border: none !important;
+}
